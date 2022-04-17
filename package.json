@@ -1,0 +1,11 @@
+{
+  "name": "restaurant-redux",
+  "version": "1.0.0",
+  "description": "Restaurant applicaton using MERN stack by Le Hong Linh",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Le Hong Linh",
+  "license": "MIT"
+}
