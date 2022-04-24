@@ -1,0 +1,1 @@
+export const PRODUCTS_REQUESTING = 'products/requesting';

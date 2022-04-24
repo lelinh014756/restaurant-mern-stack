@@ -1,0 +1,13 @@
+#acount {
+  background-image: url("https://cdn.huongnghiepaau.com/wp-content/uploads/2019/01/hamburger.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.8;
+  & .signup-form .error-message,
+  .signin-form .error-message {
+    padding: 10px 4px;
+    font-size: 16px;
+    color: #ec0000;
+  }
+}
